@@ -27,26 +27,6 @@ planning-skills/
 The flat layout keeps install paths short while still letting Codex install any
 skill by directory path.
 
-## Installation
-
-Install all three skills from this repository:
-
-```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo EveGoodEvening/planning-skills \
-  --path advanced-planning gen-todolist simple-planning
-```
-
-Install one skill:
-
-```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo EveGoodEvening/planning-skills \
-  --path simple-planning
-```
-
-Restart Codex after installing new skills.
-
 ## Included Skills
 
 ### `simple-planning`
