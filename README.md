@@ -35,11 +35,11 @@ Read the relevant codebase and produce a scoped implementation plan without writ
 
 ### `advanced-planning`
 
-Compare viable implementation approaches, analyze tradeoffs and risks, and recommend the best plan.
+Interactively resolve material unknowns, compare viable implementation approaches, analyze tradeoffs and risks, and recommend the final plan.
 
 ### `gen-todolist`
 
-Turn a task into a detailed Markdown checklist, optionally for writing into a planning document.
+Turn a resolved task or plan into a detailed Markdown checklist, optionally for writing into a planning document, without adding open questions by default.
 
 ## Maintenance Notes
 
